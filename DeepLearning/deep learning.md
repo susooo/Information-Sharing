@@ -4,6 +4,7 @@
 * [스탠포드 자연어 처리 강의](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 * [컴퓨터 비전 강의](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 * [모두를 위한 딥러닝 강의](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+* [고려대학교 산업경영공학부 DSBA 연구실](https://www.youtube.com/channel/UCPq01cgCcEwhXl7BvcwIQyg)
 
 ### 블로그
 * [ML/DL 정리](https://ratsgo.github.io/blog/categories/)
