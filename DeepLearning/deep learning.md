@@ -15,3 +15,7 @@
 ### git
 * [카이스트 딥러닝 홀로서기 (논문설명 및 코드리뷰)](https://github.com/heartcored98/Standalone-DeepLearning)
 * [데이터사이언티스트](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8)
+
+### competition
+* [다양한 기업 경진대회](https://dacon.io/)
+* [딥러닝 basis problem](https://ai-korea.kr/playground/selectTutorialPlayground.do)
